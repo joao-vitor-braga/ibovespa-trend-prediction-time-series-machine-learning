@@ -1,0 +1,10 @@
+datetime
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+statsmodels
+sklearn
+yfinance
