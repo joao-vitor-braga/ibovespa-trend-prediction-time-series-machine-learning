@@ -6,16 +6,6 @@ O desafio consiste em prever a **tendência do IBOVESPA no pregão seguinte** (a
 
 ---
 
-## Grupo
-
-- Ariany  
-- Érica  
-- João Vitor  
-- Juliana  
-- Willer  
-
----
-
 ## Como executar o projeto
 
 ### 1. Clonar o repositório
@@ -193,3 +183,13 @@ Como próximos passos, o modelo pode ser aprimorado com a inclusão de novas fea
 ## Observação
 
 Este projeto foi desenvolvido **exclusivamente para fins acadêmicos**, não constituindo recomendação de investimento.
+
+## Grupo
+
+- Ariany  
+- Érica  
+- João Vitor  
+- Juliana  
+- Willer  
+
+---
