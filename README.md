@@ -137,10 +137,10 @@ Os modelos foram comparados considerando desempenho, robustez e impacto do desba
 ```text
 ibovespa-trend-prediction-time-series-machine-learning/
 │
-├── ibovespa_trend_prediction_time_series_ml.ipynb   # Notebook principal
+├── README.md
 ├── ibovespa_historical_daily.csv                    # Base de dados
-├── requirements.txt                                 # Dependências do projeto
-└── README.md
+├── ibovespa_trend_prediction_time_series_ml.ipynb   # Notebook principal
+└── requirements.txt                                 # Dependências do projeto
 ```
 ---
 
